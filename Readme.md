@@ -76,7 +76,7 @@ Pasien harus menunggu di klinik tanpa kepastian berapa lama mereka akan menunggu
 |---|---|---|
 | 25523120 | Ahmad Azzuri Pakalessy | Project Management |
 | 25523115 | Muchmamad Aril Kurniawan | Frontend |
-| 25523___ | Muhammad Zulfahmi Radityo | System Architect |
+| 25523241 | Muhammad Zulfahmi Radityo | System Architect |
 | 25523135 | Alfian Nur Saputro | QA Engineer / Tester |
 | 21523080 | Satrio Damar Ramadhan | Back End |
 
